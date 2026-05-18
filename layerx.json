@@ -6,14 +6,14 @@
             "bin": [
                 "layerx.exe"
             ],
-            "hash": "3ac11d1590f8a8bcb7c00c4425a9ac1e50dbc06f63364abd7d0707fa44d99397"
+            "hash": "f4afdca8550cbde2ba8b054bbb43878a3bd224bef1cef868e3f50757a5976716"
         },
         "arm64": {
             "url": "https://github.com/deveshpharswan/layerx/releases/download/v1.0.0/layerx_1.0.0_windows_arm64.zip",
             "bin": [
                 "layerx.exe"
             ],
-            "hash": "0e217926d2fdbecd5190470b20fd23f8e40fbe020780aaef59886037a2aa2e4b"
+            "hash": "bbee7858e72976d04da64297ed94bd1b083528011d259e0049199ec2455aee78"
         }
     },
     "homepage": "https://github.com/deveshpharswan/layerx",
