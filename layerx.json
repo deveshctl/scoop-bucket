@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/deveshpharswan/layerx/releases/download/v1.0.0/layerx_1.0.0_windows_amd64.zip",
+            "bin": [
+                "layerx.exe"
+            ],
+            "hash": "3ac11d1590f8a8bcb7c00c4425a9ac1e50dbc06f63364abd7d0707fa44d99397"
+        },
+        "arm64": {
+            "url": "https://github.com/deveshpharswan/layerx/releases/download/v1.0.0/layerx_1.0.0_windows_arm64.zip",
+            "bin": [
+                "layerx.exe"
+            ],
+            "hash": "0e217926d2fdbecd5190470b20fd23f8e40fbe020780aaef59886037a2aa2e4b"
+        }
+    },
+    "homepage": "https://github.com/deveshpharswan/layerx",
+    "license": "MIT",
+    "description": "Terminal-based Docker image layer inspector"
+}
