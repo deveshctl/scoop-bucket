@@ -1,19 +1,19 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/deveshctl/layerx/releases/download/v1.2.1/layerx_windows_amd64.zip",
+            "url": "https://github.com/deveshctl/layerx/releases/download/v1.2.2/layerx_windows_amd64.zip",
             "bin": [
                 "layerx.exe"
             ],
-            "hash": "962e943920695c50161140501edbe56a78f267f9e848bd9b36684695db415db7"
+            "hash": "c3b9f6b1ab7704d4d6fe667c4d3f12a55d8fa88bab40f099febad636e0538d86"
         },
         "arm64": {
-            "url": "https://github.com/deveshctl/layerx/releases/download/v1.2.1/layerx_windows_arm64.zip",
+            "url": "https://github.com/deveshctl/layerx/releases/download/v1.2.2/layerx_windows_arm64.zip",
             "bin": [
                 "layerx.exe"
             ],
-            "hash": "ff3cac743fa5e6fe793f12c5fea2b62f61516ba3db3de969500d495dcbf745d1"
+            "hash": "0b28f8081b69c34883625afced53e0348aa1ebd7456014f2dd924a316643622a"
         }
     },
     "homepage": "https://github.com/deveshctl/layerx",
